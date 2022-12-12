@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.cart-main{
+    height: 350px;
+    background-image: url(./cart-main.jpg);
+    background-color: black;
+    opacity: .8;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* color: white; */
+   
+  }
+  
+  .cart-main h2{
+    color: white;
+    /* background-color: black; */
+    /* opacity: .8; */
+    width: 50%;
+    font-size: 50px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+   margin-top: 150px;
+   margin-left: 20px;
+  }
